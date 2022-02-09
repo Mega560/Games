@@ -7,3 +7,4 @@ _X_O Versión clásica del tres en Raya._
 _Pi_Pa_Ti versión del juego piedra-papel-tigera_
 
 ## About
+Cualquier duda/consejo, hacermelo saber; gracias.
