@@ -4,4 +4,4 @@ Repositorio con versiones de los clásicos juegos
 _X_O Versión clásica del tres en Raya._
 
 
-_Pi_Pa_TI versión del juego piedra-papel-tigera_
+_Pi_Pa_Ti versión del juego piedra-papel-tigera_
